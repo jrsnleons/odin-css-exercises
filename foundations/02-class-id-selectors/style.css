@@ -3,17 +3,16 @@
     font-family:'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
+.adjust-font-size {
+    font-size: 24px;
+}
+
 #num2 {
     color: blue;
     font-size: 36px;
 }
 
-.num3 {
-    font-size: 24px;
-}
-
 #num4 {
     background-color: rgb(146, 247, 146);
-    font-size: 24px;
     font-weight: bold;
 }
